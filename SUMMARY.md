@@ -1,6 +1,6 @@
 # Summary
 
-* [第一章基础](chapter1.md)
-* [基础二](chapter1/xu-1.md)
-* [基础一](README.md)
+* [介绍](README.md)
+* [第一章基础](di-er-zhang-demo.md)
+  * [基础一](di-er-zhang-demo/ji-chu-yi.md)
 
