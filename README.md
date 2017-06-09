@@ -1,12 +1,2 @@
-# php book
-
-> refer
-
-# some code
-```php
-
-echo 123;
-
-```
-
+基础一文章
 
